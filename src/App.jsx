@@ -93,7 +93,7 @@ function App() {
 
             <div className="weather-card mt-6">
               <h3 className="font-semibold text-lg">About</h3>
-              <p className="text-sm text-gray-700 mt-2">This demo uses the OpenWeatherMap current weather API. To deploy, add your API key to an environment variable named <code className="bg-gray-100 px-1 rounded">14079a6c14124afa67bfea5abf92d419</code>.</p>
+              <p className="text-sm text-gray-700 mt-2">This demo uses the OpenWeatherMap current weather API.</p>
             </div>
           </aside>
         </main>
